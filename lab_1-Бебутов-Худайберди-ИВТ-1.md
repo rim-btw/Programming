@@ -71,5 +71,3 @@ int main() {
     
     return 0;
 }
-### Результаты:
-<img width="1849" height="755" alt="2026-04-06_02-01-23" src="https://github.com/user-attachments/assets/d2d87c24-29b1-41c2-90ce-d5063e6b3a6c" />
